@@ -1,6 +1,11 @@
 # dazzler-demos
 Demos for the Dazzler Graphics card s-100 requires full 64KB memory.
 
+TRON a basic lightcycle program not 100% finished but playable for 2 player.
+
+![DSCN6433](https://github.com/user-attachments/assets/9d6a5275-57ef-402a-ad36-af2de7f66c65)
+
+
 PIANO is a simple music piano for the dazzler II graphics card with sound board. 
 uses the keyboard set your caps lock.
 ![DSCN6377](https://github.com/user-attachments/assets/2a19aa70-50e3-4426-a6df-ccf911c251b7)
