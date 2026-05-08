@@ -3,6 +3,7 @@ Demos for the Dazzler Graphics card s-100 requires full 64KB memory.
 
 SUPER SPRINT! Relive the 1980s classic on your Altair 8800.
 Z80 CPU , 64KB required. 4 classic tracks. 2 player action.
+Sound Effects.
 
 <img width="3648" height="2736" alt="DSCN6473" src="https://github.com/user-attachments/assets/9b84a87c-b10d-487d-88ee-a1fcbfa3ad15" />
 <img width="3648" height="2736" alt="DSCN6474" src="https://github.com/user-attachments/assets/4ad11f9e-ca76-49a7-bdb6-611fd4d339a7" />
