@@ -1,5 +1,6 @@
 # dazzler-demos
 Demos for the Dazzler Graphics card s-100 requires full 64KB memory.
+____________________________________________________________________
 
 SUPER SPRINT! Relive the 1980s classic on your Altair 8800.
 
