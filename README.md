@@ -1,6 +1,16 @@
 # dazzler-demos
 Demos for the Dazzler Graphics card s-100 requires full 64KB memory.
 
+SUPER SPRINT! Relive the 1980s classic on your Altair 8800 
+
+<img width="3648" height="2736" alt="DSCN6473" src="https://github.com/user-attachments/assets/9b84a87c-b10d-487d-88ee-a1fcbfa3ad15" />
+<img width="3648" height="2736" alt="DSCN6474" src="https://github.com/user-attachments/assets/4ad11f9e-ca76-49a7-bdb6-611fd4d339a7" />
+<img width="3648" height="2736" alt="DSCN6475" src="https://github.com/user-attachments/assets/16cdb74a-668b-42df-99cd-2d507b96baad" />
+<img width="3648" height="2736" alt="DSCN6476" src="https://github.com/user-attachments/assets/bca8bd63-73fc-41ad-af17-44a8e6bf724e" />
+<img width="3648" height="2736" alt="DSCN6478" src="https://github.com/user-attachments/assets/791f82f7-ccc8-4d45-a52c-d44e5a0ed555" />
+
+
+
 TRON a basic lightcycle program not 100% finished but playable for 2 player.
 
 ![DSCN6433](https://github.com/user-attachments/assets/9d6a5275-57ef-402a-ad36-af2de7f66c65)
